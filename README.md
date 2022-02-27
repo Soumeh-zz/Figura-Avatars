@@ -4,9 +4,9 @@ A collection of Minecraft skins / Figura avatars, based on video game characters
 
 # Packs
 
-- [Darkest Dungeon](skins/darkest_dungeon/README.md)
-- [Inscryption](skins/inscryption/README.md)
-- [Misc.](skins/misc/README.md)
+- [Darkest Dungeon](avatars/darkest_dungeon/README.md)
+- [Inscryption](avatars/inscryption/README.md)
+- [Misc.](avatars/misc/README.md)
 
 # To-Do
 
