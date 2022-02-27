@@ -1,7 +1,8 @@
 # *Women and men; soldiers and outlaws; fools and corpses. All will find their way to us now that the road is clear...*
 
-<img src='crusader/icon.png'>
-<h2 style="display: inline; vertical-align: middle;">Crusader</h2>
+![](crusader/icon.png)
+**Crusader**
+---
 
 ### A mighty sword-arm anchored by a holy purpose. A zealous warrior.	
 
@@ -10,8 +11,8 @@
 ![Banner](https://media.discordapp.net/attachments/398864696989450259/944686847546769429/unknown.png)
 
 > Downloads:
-> - [Figura](crusader/)
-> - [Vanilla](/crusader/vanilla.png)
+> [Figura](crusader/)
+> [Vanilla](/crusader/vanilla.png)
 
 # To-Do
 
