@@ -11,8 +11,8 @@
 ![Banner](https://media.discordapp.net/attachments/398864696989450259/944686847546769429/unknown.png)
 
 > Downloads:
-> [Figura](crusader/)
-> [Vanilla](/crusader/vanilla.png)
+> - [Figura](revita_kid/)
+> - [Vanilla](/revita_kid/vanilla.png)
 
 # To-Do
 
